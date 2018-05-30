@@ -1,0 +1,189 @@
+====
+    Copyright 2017 StreamSets Inc.
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+====
+
+This product includes software developed by StreamSets, Inc.
+(http://www.streamsets.com/).
+
+This product includes components of the following software:
+
+  Project Name                    License
+-----------------------------------------------------------------------
+  Amazon AWS Java SDK             Apache License 2.0
+  Amazon Kinesis Client           Amazon Software License
+  Ant LR                          BSD License
+  AOPAlliance                     Public Domain
+  Apache Ant                      Apache License 2.0
+  Apache Commons Beanutils        Apache License 2.0
+  Apache Commons CLI              Apache License 2.0
+  Apache Commons Codec            Apache License 2.0
+  Apache Commons Collections      Apache License 2.0
+  Apache Commons Compress         Apache License 2.0
+  Apache Commons Configuration    Apache License 2.0
+  Apache Commons CSV              Apache License 2.0
+  Apache Commons DBCP             Apache License 2.0
+  Apache Commons Digester         Apache License 2.0
+  Apache Commons EL               Apache License 2.0
+  Apache Commons HttpClient       Apache License 2.0
+  Apache Commons IO               Apache License 2.0
+  Apache Commons Lang             Apache License 2.0
+  Apache Commons Lang3            Apache License 2.0
+  Apache Commons Logging          Apache License 2.0
+  Apache Commons Math3            Apache License 2.0
+  Apache Commons Net              Apache License 2.0
+  Apache Commons Pool             Apache License 2.0
+  Apache Commons Pool2            Apache License 2.0
+  Apache Curator                  Apache License 2.0
+  Apache Derby                    Apache License 2.0
+  Apache Directory                Apache License 2.0
+  Apache Flume                    Apache License 2.0
+  Apache Geronimo                 Apache License 2.0
+  Apache Hadoop                   Apache License 2.0
+  Apache HBase                    Apache License 2.0
+  Apache Hive                     Apache License 2.0
+  Apache HTrace                   Apache License 2.0
+  Apache HttpComponents           Apache License 2.0
+  Apache Ivy                      Apache License 2.0
+  Apache Kafka                    Apache License 2.0
+  Apache Log4j                    Apache License 2.0
+  Apache Lucene                   Apache License 2.0
+  Apache Parquet                  Apache License 2.0
+  Apache Solr                     Apache License 2.0
+  Apache Spark                    Apache License 2.0
+  Apache Thrift                   Apache License 2.0
+  Apache Velocity                 Apache License 2.0
+  Apache Xerces                   Apache License 2.0
+  Apache ZooKeeper                Apache License 2.0
+  ASM                             BSD License
+  Automaton                       BSD License
+  Avro                            Apache License 2.0
+  BoneCP                          Apache License 2.0
+  Boon                            Apache License 2.0
+  Bouncy Castle                   MIT License
+  Calcite                         Apache License 2.0
+  Cassandra                       Apache License 2.0
+  Dagger                          Apache License 2.0
+  Data Nucleus                    Apache License 2.0
+  Dropwizzard Metrics             Apache License 2.0
+  eigenbase-properties            Apache License 2.0
+  Elasticsearch                   Apache License 2.0
+  Fast Serialization (fst)        Apache License 2.0
+  Force.com WSC                   New BSD License
+  Google Http-Client              Apache License 2.0
+  Google Protocol Buffers         Apache License 2.0
+  Grovy                           Apache License 2.0
+  GSon                            Apache License 2.0
+  Guava                           Apache License 2.0
+  Guid                            Apache License 2.0
+  H2                              Eclipse Public License 1.0
+  Hikari CP                       Apache License 2.0
+  HK2                             CDDL
+  iq80 Snappy                     Apache License 2.0
+  Jackson FasterXML               Apache License 2.0
+  Java Assist                     Apache License 2.0
+  Java Protobuf                   New BSD License
+  javax Activation                CDDL 1.0
+  javax Annotation API            CDDL
+  javax Inject                    Apache License 2.0
+  javax Jaxb API                  CDDL 1.1
+  javax JDO API                   Apache License 2.0
+  javax JSP API                   CDDL
+  javax JTA                       CDDL
+  javax Mail                      CDDL
+  javax Servlet API               CDDL
+  javax Stax API                  CDDL 1.0
+  javax Validation API            Apache License 2.0
+  javax WSRS API                  CDDL 1.1
+  Jaxb Implementation             CDDL 1.1
+  JCodings                        MIT License
+  Jersey                          CDDL
+  Jettison                        Apache License 2.0
+  Jetty                           Apache License 2.0
+  JLine                           BSD License
+  Joda Time                       Apache License 2.0
+  Joni                            MIT License
+  Jopt Simple                     MIT License
+  JPam                            Apache License 2.0
+  JSON                            JSON License
+  JSR-305                         Apache License 2.0
+  jtar                            Apache License 2.0
+  Jython                          Jython Software License
+  Kryo                            New BSD License
+  LevelDB JNI                     BSD 3-Clause License
+  LZ4 Java                        Apache License 2.0
+  MaxMind DB                      Apache License 2.0
+  MaxMind Geoip2                  Apache License 2.0
+  Mimepull                        CDDL 1.1
+  MinLog                          New BSD License
+  Mongo DB                        Apache License 2.0
+  Netty                           Apache License 2.0
+  Netty                           Apache License 2.0
+  Noggit                          Apache License 2.0
+  Objenesis                       Apache License 2.0
+  Open CSV                        Apache License 2.0
+  Paranamer                       BSD License
+  Pentaho                         Apache License 2.0
+  ReflectASM                      New BSD License
+  Reflections                     New BSD License
+  Scala                           BSD-like License
+  SLF4J                           MIT License
+  Spatial4J                       Apache License 2.0
+  Stax2 API                       BSD License
+  Swagger                         Apache License 2.0
+  UnboundID LDAP SDK              UnboundID LDAP SDK Free Use License
+  Windows Azure Storage SDK       Apache License 2.0
+  WSTX ASL                        Apache License 2.0
+  XML APIs                        Apache License 2.0
+  xmlenc                          BSD License
+  XZ                              Public Domain
+  ZkClient                        Apache License 2.0
+-----------------------------------------------------------------------
+
+
+UI Components
+
+  Project Name                              License
+-----------------------------------------------------------------------
+  angular                                   MIT License
+  angular-bootstrap                         MIT License
+  angular-bootstrap-datetimepicker          MIT License
+  angular-bootstrap-show-errors             MIT License
+  angular-cookies                           MIT License
+  angular-dynamic-locale                    MIT License
+  angular-google-analytics                  MIT License
+  angular-i18n                              MIT License
+  angular-moment                            MIT License
+  angular-nvd3                              MIT License
+  angular-resource                          MIT License
+  angular-route                             MIT License
+  angular-sanitize                          MIT License
+  angular-scenario                          MIT License
+  angular-swagger-ui                        MIT License
+  angular-translate                         MIT License
+  angular-translate-loader-static-files     MIT License
+  angular-translate-storage-cookie          MIT License
+  angular-ui-select                         MIT License
+  bg-splitter                               MIT License
+  bootstrap                                 MIT License
+  codemirror                                MIT License
+  d3                                        BSD License
+  fontawesome                               SIL OFL 1.1
+  jquery                                    MIT License
+  json-formatter                            Apache License 2.0
+  moment                                    MIT License
+  ngstorage                                 MIT License
+  nvd3                                      Apache License 2.0
+  ui-codemirror                             MIT License
+  underscore                                MIT License
